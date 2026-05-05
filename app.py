@@ -1,6 +1,3 @@
-# app.py
-# Advanced Streamlit Dashboard (20+ Features)
-
 import streamlit as st
 import json
 import os
